@@ -1,9 +1,7 @@
 ## 🌐 About Me:
 
 #Hello World! , I am Pranab Roy
-
 #Problem solver and eager to learn new skills
-
 #I am a student and developer.
 #🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology
 #👯 I’m looking to collaborate on Open Source Project
