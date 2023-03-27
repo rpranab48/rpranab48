@@ -1,14 +1,6 @@
-## 🌐 About Me:
+# 💫 About Me:
+Hello World! , I am Pranab Roy<br><br>Problem solver and eager to learn new skills<br>I am a student and developer.<br>🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology<br>👯 I’m looking to collaborate on Open Source Project<br>📫 Reach me: rpranab48@gmail.com<br>💬 Ask me about Tech Related stuffs<br>😄 Pronouns: He/His<br>⚡ Fun fact: I love to travel a lot!
 
-#Hello World! , I am Pranab Roy
-#Problem solver and eager to learn new skills
-#I am a student and developer.
-#🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology
-#👯 I’m looking to collaborate on Open Source Project
-#📫 Reach me: rpranab48@gmail.com
-#💬 Ask me about Tech Related stuffs
-#😄 Pronouns: He/His
-#⚡ Fun fact: I love to travel a lot!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranab-roy-b1a58b266/) 
